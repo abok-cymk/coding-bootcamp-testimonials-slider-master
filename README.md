@@ -1,13 +1,49 @@
-  “ I’ve been interested in coding for a while but never taken the jump, until now. 
-  I couldn’t recommend this course enough. I’m now in the job of my dreams and so 
-  excited about the future. ”
+# Frontend Mentor - Coding bootcamp testimonials slider solution
 
-  Tanya Sinclair
-  UX Engineer
+This is a solution to the [Coding bootcamp testimonials slider challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-  “ If you want to lay the best foundation possible I’d recommend taking this course. 
-  The depth the instructors go into is incredible. I now feel so confident about 
-  starting up as a professional developer. ”
+## Table of contents
 
-  John Tarkpor
-  Junior Front-end Developer
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the component depending on their device's screen size
+- Navigate the slider using either their mouse/trackpad or keyboard
+
+### Screenshot
+
+![](./bootcamp-screenshot.png)
+
+### Links
+
+- Solution URL: [solution URL](https://github.com/abok-cymk/coding-bootcamp-testimonials-slider-master)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- Vite
+
+## Author
+
+- Frontend Mentor - [@abok-cymk](https://www.frontendmentor.io/profile/abok-cymk)
+- Twitter - [@abokallan22](https://www.twitter.com/abokallan22)
+
